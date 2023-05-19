@@ -1,0 +1,13 @@
+#muda_cor{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.amarelo{
+    background-color: gold;
+}
+
+.laranja{
+    background-color: orange;
+}
